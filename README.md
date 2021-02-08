@@ -1,2 +1,4 @@
 # exercicio1-html
-Exercício de uso de navegabilidade e tags em HTML
+Exercício de navegabilidade e tags em HTML
+
+Open with Live Server in Visual Studio Code.
